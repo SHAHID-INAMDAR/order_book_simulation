@@ -4,7 +4,7 @@ A console-based **stock exchange order book simulator** written in **C++17**, bu
 
 Users place BUY and SELL limit orders for one fictional stock. OrderFlow matches them using **price-time priority**, records every trade, and keeps unmatched orders resting in the book.
 
-> Educational project only. There is no real market connection and no real money involved.
+>There is no real market connection and no real money involved.
 
 ---
 
@@ -179,10 +179,11 @@ L is the number of price levels and n is the number of active orders.
 
 | Name | Roll No. |
 |---|---|
-| [Member 1] | [Roll No.] |
-| [Member 2] | [Roll No.] |
-| [Member 3] | [Roll No.] |
+| [ Abhishek Katkar]   | [27037] |
+| [ Ansh Pandey ]      | [27048] |
+| [ Shahid Inamdar ]   | [27029] |
+| [ Chinmaya gambhir]  | [27071] |
 
-**Guide:** [Guide Name]
-**College:** [College Name]
-**Department:** [Department Name]
+**Guide:** [Rupali Panpaliya]
+**College:** [P.E.S Modern college of Engineering]
+**Department:** [AIML]
